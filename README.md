@@ -30,7 +30,7 @@ In the CLI enter
 
 Then enter values for the prompt dialog when asked
 
-![Optional Text](./qualifier/download.jpg)
+![Optional Text](./download.jpg)
 ---
 
 ## Contributors
